@@ -1,12 +1,12 @@
 {
   "project": "release-dock",
   "source": "github",
-  "version": "1.0.0",
-  "package_url": "https://github.com/zsh-0/ReleaseDock/releases/download/release-dock-v1.0.0/release-dock-v1.0.0.exe",
-  "package_name": "release-dock-v1.0.0.exe",
-  "sha256": "fd6420dffacbedcd856783cd2d639296863732f122c403df544fe3be99decdd7",
-  "size": 47427070,
-  "notes": "V1.0.0\n1、初版发布",
+  "version": "1.0.1",
+  "package_url": "https://github.com/zsh-0/ReleaseDock/releases/download/release-dock-v1.0.1/release-dock-v1.0.1.exe",
+  "package_name": "release-dock-v1.0.1.exe",
+  "sha256": "209726042e550cf43b830f91d98c022deb8de91860d9a045adbfa75516ff363a",
+  "size": 47428159,
+  "notes": "V1.0.1\n1、调整升级接入说明规则\n2、夜间模式按钮切换为象形图标",
   "mandatory": false,
-  "published_at": "2026-08-21T03:40:14+00:00"
+  "published_at": "2026-08-21T04:15:19+00:00"
 }
