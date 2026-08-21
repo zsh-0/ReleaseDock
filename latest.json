@@ -1,0 +1,12 @@
+{
+  "project": "release-dock",
+  "source": "github",
+  "version": "1.0.0",
+  "package_url": "https://github.com/zsh-0/ReleaseDock/releases/download/release-dock-v1.0.0/release-dock-v1.0.0.exe",
+  "package_name": "release-dock-v1.0.0.exe",
+  "sha256": "fd6420dffacbedcd856783cd2d639296863732f122c403df544fe3be99decdd7",
+  "size": 47427070,
+  "notes": "V1.0.0\n1、初版发布",
+  "mandatory": false,
+  "published_at": "2026-08-21T03:40:14+00:00"
+}
