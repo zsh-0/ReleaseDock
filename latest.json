@@ -6,7 +6,7 @@
   "package_name": "release-dock-v1.0.2.exe",
   "sha256": "8a6c178a4b8857a242da04e1abe0ab4f2c8fbc4ae0f29545dc3426639d457987",
   "size": 47436951,
-  "notes": "V1.0.2\n1、增加远端版本查看\n2、修改更新源为gitee优先",
+  "notes": "v1.0.2\n1、增加远端版本查看\n2、修改更新源为gitee优先\n\nv1.0.1\n1、调整升级接入说明规则\n2、夜间模式按钮切换为象形图标",
   "mandatory": false,
   "published_at": "2026-08-21T06:25:14+00:00"
 }
